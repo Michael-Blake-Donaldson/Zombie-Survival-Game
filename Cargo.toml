@@ -1,0 +1,11 @@
+[package]
+name = "zombie_survival"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+winit = "0.26.0"
+pixels = "0.9"
+wgpu = "0.11"
+rusttype = "0.9"
+rand = "0.8"
